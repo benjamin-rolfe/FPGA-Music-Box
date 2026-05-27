@@ -182,7 +182,7 @@ These steps are written for a beginner using Intel Quartus Prime, but the same g
 Download or clone this repository:
 
 ```bash
-git clone https://github.com/fentadryl/FPGA-Music-Box.git
+git clone https://github.com/benjamin-rolfe/FPGA-Music-Box.git
 ```
 
 Then open the project folder.
